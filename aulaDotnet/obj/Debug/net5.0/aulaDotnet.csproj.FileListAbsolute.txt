@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\bin\Debug\net5.0\aulaDotnet.exe
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\bin\Debug\net5.0\aulaDotnet.deps.json
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\bin\Debug\net5.0\aulaDotnet.runtimeconfig.json
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\bin\Debug\net5.0\aulaDotnet.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\bin\Debug\net5.0\aulaDotnet.dll
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\bin\Debug\net5.0\ref\aulaDotnet.dll
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\bin\Debug\net5.0\aulaDotnet.pdb
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.dll
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\ref\aulaDotnet.dll
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.pdb
+C:\Users\Pichau\Desktop\projetos\dotnet\aulaDotnet\obj\Debug\net5.0\aulaDotnet.genruntimeconfig.cache
